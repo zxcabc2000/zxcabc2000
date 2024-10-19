@@ -7,7 +7,7 @@ http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
 http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://live.fanmingming.com/tv/中天新闻.png" group-title="推荐频道",中天新闻
 http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8541/.m3u8
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="推荐频道",CCTV-2 财经
-P2p://generationnexxxt.com:19806/1180a44e6cef425e826c3e798f7f3ea9
+#EXTINF:-1 tvg-name="凤凰资讯音频" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯音频.png" group-title="推荐频道",凤凰资讯音频
+https://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
 #EXTINF:-1 tvg-name="年代新闻" tvg-logo="https://live.fanmingming.com/tv/年代新闻.png" group-title="推荐频道",年代新闻
 http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8539/.m3u8
