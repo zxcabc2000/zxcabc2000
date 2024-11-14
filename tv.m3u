@@ -1768,21 +1768,20 @@ https://vd4.bdstatic.com/mda-neu9v10u2tk22kwt/480p/h264/1653808467692279237/mda-
 https://vd4.bdstatic.com/mda-nf29yjvnrcqwwy2q/480p/h264/1654240313985806512/mda-nf29yjvnrcqwwy2q.mp4?
 #EXTINF:-1 group-title="美食" tvg-logo="https://epg.v1.mk/logo/ASIANFOODNETWORK亚洲美食.png",食叔烤全羊
 https://vd4.bdstatic.com/mda-nf7a3a7fkagmh17j/480p/h264/1654672594780789869/mda-nf7a3a7fkagmh17j.mp4?
-Plus综合肆柒,P2p://147.135.39.171:9906/65fd6048000be8b2a085bc4d061c504d﻿
-中天新闻肆柒,P2p://147.135.39.171:9906/66b0b26c0009271c5cff97de758b22d0
-无线新闻肆柒,P2p://147.135.39.171:9906/665fe3b70003d98a2157b5c1769244d0
-无线翡翠肆柒,P2p://147.135.39.171:9906/66e6d974000126e3308846c86ed76d6e
-#EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
-#EXTINF:-1,tvg-id="ANIPLUS" tvg-name="ANIPLUS" tvg-logo="https://epg.v1.mk/logo/ANIPLUS.png" group-title="P2P",Plus综合肆柒
-P2p://147.135.39.171:9906/65fd6048000be8b2a085bc4d061c504d﻿
-#EXTINF:-1,tvg-id="中天新闻2台" tvg-name="中天新闻2台" tvg-logo="https://epg.v1.mk/logo/中天新闻2台.png" group-title="P2P",中天新闻肆柒
-P2p://147.135.39.171:9906/66b0b26c0009271c5cff97de758b22d0
-#EXTINF:-1,tvg-id="TVB无线新闻PNG" tvg-name="TVB无线新闻PNG" tvg-logo="https://epg.v1.mk/logo/TVB无线新闻PNG.png" group-title="P2P",无线新闻肆柒
+#EXTINF:-1,tvg-id="TVB无线新闻PNG" tvg-name="TVB无线新闻PNG" tvg-logo="https://epg.v1.mk/logo/TVB无线新闻PNG.png" group-title="P2P",TVB无线新闻
 P2p://147.135.39.171:9906/665fe3b70003d98a2157b5c1769244d0
-#EXTINF:-1,tvg-id="TVB无线新闻PNG" tvg-name="TVB无线新闻PNG" tvg-logo="https://epg.v1.mk/logo/TVB无线新闻PNG.png" group-title="P2P",无线翡翠肆柒
+#EXTINF:-1,tvg-id="TVB无线新闻PNG" tvg-name="TVB无线新闻PNG" tvg-logo="https://epg.v1.mk/logo/TVB无线新闻PNG.png" group-title="P2P",TVB无线新闻
+P2p://147.135.39.171:9906/66e6d974000126e3308846c86ed76d6e
+#EXTINF:-1,tvg-id="ANIPLUS" tvg-name="ANIPLUS" tvg-logo="https://epg.v1.mk/logo/ANIPLUS.png" group-title="P2P",ANIPLUS
+P2p://147.135.39.171:9906/65fd6048000be8b2a085bc4d061c504d﻿
+#EXTINF:-1,tvg-id="中天新闻2台" tvg-name="中天新闻2台" tvg-logo="https://epg.v1.mk/logo/中天新闻2台.png" group-title="P2P",中天新闻2台
+P2p://147.135.39.171:9906/66b0b26c0009271c5cff97de758b22d0
+#EXTINF:-1,tvg-id="TVB无线新闻PNG" tvg-name="TVB无线新闻PNG" tvg-logo="https://epg.v1.mk/logo/TVB无线新闻PNG.png" group-title="P2P",无线新闻
+P2p://147.135.39.171:9906/665fe3b70003d98a2157b5c1769244d0
+#EXTINF:-1,tvg-id="TVB无线新闻PNG" tvg-name="TVB无线新闻PNG" tvg-logo="https://epg.v1.mk/logo/TVB无线新闻PNG.png" group-title="P2P",TVB无线新闻
 P2p://147.135.39.171:9906/66e6d974000126e3308846c86ed76d6e
 #EXTINF:-1,tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://epg.v1.mk/logo/中天新闻.png" group-title="P2P",中天新闻频道
-p2p://142.54.189.229:3456/64de52a70006e20d01b906297b7d0f95.ts
+p2p://142.54.189.229:3456/64de52a70006e20d01b906297b7d0f95
 #EXTINF:-1,tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://epg.v1.mk/logo/RTHK31.png" group-title="P2P",RTHK-31频陆
 p3p://108.181.32.169:33201/64101f330006ab429853d45f7940453b
 #EXTINF:-1,tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://epg.v1.mk/logo/RTHK32.png" group-title="P2P",RTHK-32频陆
@@ -1798,7 +1797,7 @@ p3p://108.181.32.169:33201/641022da0005d3069862188000a64525
 #EXTINF:-1,tvg-id="有线新闻" tvg-name="有线新闻" tvg-logo="https://epg.v1.mk/logo/有线新闻.png" group-title="P2P",有线新闻
 p3p://108.181.32.169:33201/6533f8d200067abd2d0ae8f534c10d88
 #EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.v1.mk/logo/无线新闻.png" group-title="P2P",无线新闻
-p2p://142.54.189.230:2215/64df13d8000a1ec304abae6b03b97a73.ts
+p2p://142.54.189.230:2215/64df13d8000a1ec304abae6b03b97a73
 #EXTINF:-1,tvg-id="NOW新闻" tvg-name="NOW新闻" tvg-logo="https://epg.v1.mk/logo/NOW新闻.png" group-title="P2P",now新闻
 p3p://108.181.32.169:33201/6410254c0006df63986ba60f292a7500
 #EXTINF:-1,tvg-id="ANIPLUS" tvg-name="ANIPLUS" tvg-logo="https://epg.v1.mk/logo/ANIPLUS.png" group-title="P2P",Plus综合
@@ -1827,13 +1826,13 @@ p3p://108.181.32.169:33201/64336236000b18a12210b67722665e99
 p3p://108.181.32.169:33201/6533f6f8000f2ebd2d03af9d53e46544
 #EXTINF:-1,tvg-id="黄金华剧台" tvg-name="黄金华剧台" tvg-logo="https://epg.v1.mk/logo/黄金华剧台.png" group-title="P2P",黄金华剧
 p3p://108.181.32.169:33201/64206c63000c3a90d801201c5fe2483a
-#EXTINF:-1,tvg-id="北京房山有线" tvg-name="北京房山有线" tvg-logo="https://epg.v1.mk/logo/北京房山有线.png" group-title="P2P",有线资讯
+#EXTINF:-1,tvg-id="有线资讯" tvg-name="有线资讯" tvg-logo="https://epg.v1.mk/logo/有线资讯.png" group-title="P2P",有线资讯
 p3p://108.181.32.169:33201/6427e50e0008e093f53042b347a45e2f
 #EXTINF:-1,tvg-id="有线综合娱乐" tvg-name="有线综合娱乐" tvg-logo="https://epg.v1.mk/logo/有线综合娱乐.png" group-title="P2P",有线综讯
 p3p://108.181.32.169:33201/641022340009a273985f91092cb6113d
-#EXTINF:-1,tvg-id="北京房山有线" tvg-name="北京房山有线" tvg-logo="https://epg.v1.mk/logo/北京房山有线.png" group-title="P2P",有线赛讯
+#EXTINF:-1,tvg-id="有线赛讯" tvg-name="有线赛讯" tvg-logo="https://epg.v1.mk/logo/有线赛讯.png" group-title="P2P",有线赛讯
 p3p://108.181.32.169:33201/6533f044000117a52ce97ce95ac54bb3
-#EXTINF:-1,tvg-id="北京房山有线" tvg-name="北京房山有线" tvg-logo="https://epg.v1.mk/logo/北京房山有线.png" group-title="P2P",有线赛马
+#EXTINF:-1,tvg-id="有线赛马" tvg-name="有线赛马" tvg-logo="https://epg.v1.mk/logo/有线赛马.png" group-title="P2P",有线赛马
 p3p://108.181.32.169:33201/6533f34d0002237a2cf5584a11195950
 #EXTINF:-1,tvg-id="[ASTRO]712WARNERTV" tvg-name="[ASTRO]712WARNERTV" tvg-logo="https://epg.v1.mk/logo/[ASTRO]712WARNERTV.png" group-title="P2P",Astr剧集粤
 p3p://108.181.32.169:33201/6427ba150003a8b2f48864c0637f78d5
@@ -1922,7 +1921,7 @@ p3p://108.181.32.169:33201/641383f300048101a59561c464b07293
 #EXTINF:-1,tvg-id="kix" tvg-name="kix" tvg-logo="https://epg.v1.mk/logo/kix.png" group-title="P2P",KixHD
 p3p://108.181.32.169:33201/6413854d000785b1a59aaa2924fa1aa7
 #EXTINF:-1,tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://epg.v1.mk/logo/中天新闻.png" group-title="P2P",中天新闻
-p2p://142.54.189.230:2215/64de52a70006e20d01b906297b7d0f95.ts
+p2p://142.54.189.230:2215/64de52a70006e20d01b906297b7d0f95
 #EXTINF:-1,tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://epg.v1.mk/logo/东森新闻.png" group-title="P2P",东森新闻
 p3p://108.181.32.169:33201/64251f9700046520ea5ce8b85b6c11da
 #EXTINF:-1,tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="https://epg.v1.mk/logo/TVBS新闻.png" group-title="P2P",tvbs新闻
@@ -2649,41 +2648,41 @@ p3p://108.181.32.169:33201/64260e4f0007169bee0168271778447e
 p3p://108.181.32.169:33201/64260e5a000a63ffee0193f872fa5767
 #EXTINF:-1,tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="P2P",CCTV-16
 p3p://108.181.32.169:33201/642610a2000b33ebee0a7d6c26c160b2
-#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="北京",北京卫视
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="P2P",北京卫视
 p3p://108.181.32.169:33201/64260fe100097b88ee078b124b8f3f9d
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="P2P",东方卫视
 p3p://108.181.32.169:33201/64260ef600069de1ee03f45f41e9710e
-#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.v1.mk/logo/浙江卫视.png" group-title="浙江",浙江卫视
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.v1.mk/logo/浙江卫视.png" group-title="P2P",浙江卫视
 p3p://108.181.32.169:33201/64260fec0004b10aee07b4d0681c628b
-#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png" group-title="江苏",江苏卫视
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png" group-title="P2P",江苏卫视
 p3p://108.181.32.169:33201/64260e700008a9f5ee01e97667ca7d36
-#EXTINF:-1,tvg-id="江苏4K" tvg-name="江苏4K" tvg-logo="https://epg.v1.mk/logo/江苏4K.png" group-title="江苏",江苏备视
+#EXTINF:-1,tvg-id="江苏4K" tvg-name="江苏4K" tvg-logo="https://epg.v1.mk/logo/江苏4K.png" group-title="P2P",江苏4K
 p3p://108.181.32.169:33201/64260e7d000134abee021a56268d6ac1
-#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="湖南",湖南卫视
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="P2P",湖南卫视
 p3p://108.181.32.169:33201/64260ee40007c511ee03ae5a4aed536d
-#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.v1.mk/logo/广东卫视.png" group-title="广东",广东卫视
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.v1.mk/logo/广东卫视.png" group-title="P2P",广东卫视
 p3p://108.181.32.169:33201/64260f9d0003bfdeee067ffb753744c8
 #EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.v1.mk/logo/深圳卫视.png" group-title="P2P",深圳卫视
 p3p://108.181.32.169:33201/64261082000a8e12ee0a00412f96293c
-#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.v1.mk/logo/安徽卫视.png" group-title="安徽",安徽卫视
+#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.v1.mk/logo/安徽卫视.png" group-title="P2P",安徽卫视
 p3p://108.181.32.169:33201/64260fd5000d5883ee075d2f7d6a48e2
-#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.v1.mk/logo/山东卫视.png" group-title="山东",山东卫视
+#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.v1.mk/logo/山东卫视.png" group-title="P2P",山东卫视
 p3p://108.181.32.169:33201/64260f89000475c3ee06320a031a7286
-#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.v1.mk/logo/河南卫视.png" group-title="河南",河南卫视
+#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.v1.mk/logo/河南卫视.png" group-title="P2P",河南卫视
 p3p://108.181.32.169:33201/64260fb100056a93ee06ce871c2e5071
-#EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.v1.mk/logo/海南卫视.png" group-title="海南",海南卫视
+#EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.v1.mk/logo/海南卫视.png" group-title="P2P",海南卫视
 p3p://108.181.32.169:33201/64260fc10002a54fee070c525d0d5e83
 #EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.v1.mk/logo/东南卫视.png" group-title="P2P",东南卫视
 p3p://108.181.32.169:33201/64260fcb00035aa0ee0733907e64579c
-#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.v1.mk/logo/江西卫视.png" group-title="江西",江西卫视
+#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.v1.mk/logo/江西卫视.png" group-title="P2P",江西卫视
 p3p://108.181.32.169:33201/64260f920000727aee06542a02064fce
-#EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://epg.v1.mk/logo/陕西卫视.png" group-title="陕西",陕西卫视
+#EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://epg.v1.mk/logo/陕西卫视.png" group-title="P2P",陕西卫视
 p3p://108.181.32.169:33201/642610c3000df7f5ee0aff0975881941
-#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.v1.mk/logo/湖北卫视.png" group-title="湖北",湖北卫视
+#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.v1.mk/logo/湖北卫视.png" group-title="P2P",湖北卫视
 p3p://108.181.32.169:33201/64260ed500091677ee0374195121319b
-#EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.v1.mk/logo/重庆卫视.png" group-title="重庆",重庆卫视
+#EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.v1.mk/logo/重庆卫视.png" group-title="P2P",重庆卫视
 p3p://108.181.32.169:33201/642610b9000df973ee0ad7f9779b6483
-#EXTINF:-1,tvg-id="NewTV黑龙江" tvg-name="NewTV黑龙江" tvg-logo="https://epg.v1.mk/logo/NewTV黑龙江.png" group-title="黑龙江",黑龙江视
+#EXTINF:-1,tvg-id="NewTV黑龙江" tvg-name="NewTV黑龙江" tvg-logo="https://epg.v1.mk/logo/NewTV黑龙江.png" group-title="P2P",黑龙江视
 p3p://108.181.32.169:33201/64260fa7000c1330ee06a92c52724886
 #EXTINF:-1,tvg-id="大湾区之声" tvg-name="大湾区之声" tvg-logo="https://epg.v1.mk/logo/大湾区之声.png" group-title="P2P",大湾区视
 p3p://108.181.32.169:33201/64261096000de036ee0a4f3b523d603e
@@ -4589,3 +4588,6 @@ p3p://108.181.32.169:33201/64682d86000d9dd7f049c5be62a544dc
 p3p://108.181.32.169:33201/64682d920000784af049f14136c47100
 #EXTINF:-1,tvg-id="64380CD7912397DDA14400F5FCCEA5B7D0A20DF429A7" tvg-name="64380CD7912397DDA14400F5FCCEA5B7D0A20DF429A7" tvg-logo="https://epg.v1.mk/logo/64380CD7912397DDA14400F5FCCEA5B7D0A20DF429A7.png" group-title="P2P",CCX
 p3p://108.181.32.169:33201/64682d9d0007d19ef04a1e1b33280293
+
+
+
