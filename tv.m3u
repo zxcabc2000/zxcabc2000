@@ -11,7 +11,7 @@ https://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
 https://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8
 #EXTINF:-1 tvg-name="掼蛋精英赛" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/341/085/202308221004_1692669748086_H169_1080.jpg" group-title="推荐频道",掼蛋精英赛
 https://tv.iill.top/migu/dds
-#EXTINF:-1 tvg-name="陈翔六点半" tvg-logo="https://epg.v1.mk/logo/陈翔六点半.png" group-title="推荐频道",陈翔六点半
+#EXTINF:-1 tvg-name="陈翔六点半" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/zxcabc2000/zxcabc2000/refs/heads/main/cxldb.png" group-title="推荐频道",陈翔六点半
 http://120.77.28.4:8648/huya.php?id=11274154
 #EXTINF:-1 tvg-name="鹿鼎记" tvg-logo="https://epg.v1.mk/logo/鹿鼎记.png" group-title="推荐频道",鹿鼎记
 http://120.77.28.4:8648/yy.php?id=28265277
