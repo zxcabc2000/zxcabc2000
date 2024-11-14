@@ -32,7 +32,7 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 #EXTINF:-1 tvg-name="cctv13" tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="推荐频道",cctv13
 http://182.92.109.190:1668/migu720/migu720.php?id=cctv13
 #EXTINF:-1 tvg-name="cctv13" tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="推荐频道",cctv13
-http://e1.woc.iiiya.cn:8888/rtp/239.61.2.23:8132
+https://tv.iill.top/migu/cctv13
 #EXTINF:-1 tvg-name="cctv13" tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="推荐频道",cctv13
 https://tv.iill.top/migu/cctv13
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://epg.v1.mk/logo/中天新闻.png" group-title="推荐频道",中天新闻
@@ -888,6 +888,172 @@ http://caocaocaocao.hg16888.vip/mytvsuper/C3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1ba88eacde780c7567255b8b33026ae5:f7df792aab8992b79d72a8d01987ecb5
 http://caocaocaocao.hg16888.vip/mytvsuper/C2
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/CCTV1.png",CCTV1综合
+http://182.92.109.190:1668/migu720/migu720.php?id=cctv1
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/cctv2.png",CCTV2财经
+http://182.92.109.190:1668/migu720/migu720.php?id=cctv2
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/cctv3.png",CCTV3综艺
+http://182.92.109.190:1668/migu720/migu720.php?id=cctv3
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/cctv4.png",CCTV4中文国际
+http://182.92.109.190:1668/migu720/migu720.php?id=cctv4
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/cctv4.png",CCTV4美洲
+http://182.92.109.190:1668/migu720/migu720.php?id=cctv4a
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/cctv4.png",CCTV4欧洲
+http://182.92.109.190:1668/migu720/migu720.php?id=cctv4o
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/cctv5.png",CCTV5体育
+http://182.92.109.190:1668/migu720/migu720.php?id=cctv5
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/cctv5+.png",CCTV5+体育赛事
+http://182.92.109.190:1668/migu720/migu720.php?id=cctv5p
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/cctv6.png",CCTV6电影
+http://182.92.109.190:1668/migu720/migu720.php?id=cctv6
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/CCTV7.png",CCTV7国防军事
+http://182.92.109.190:1668/migu720/migu720.php?id=cctv7
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/cctv8.png",CCTV8电视剧
+http://182.92.109.190:1668/migu720/migu720.php?id=cctv8
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/cctv9.png",CCTV9纪录
+http://182.92.109.190:1668/migu720/migu720.php?id=cctv9
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/cctv10.png",CCTV10科教
+http://182.92.109.190:1668/migu720/migu720.php?id=cctv10
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/cctv11.png",CCTV11戏曲
+http://182.92.109.190:1668/migu720/migu720.php?id=cctv11
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/cctv12.png",CCTV12社会与法
+http://182.92.109.190:1668/migu720/migu720.php?id=cctv12
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/cctv13.png",CCTV13新闻
+http://182.92.109.190:1668/migu720/migu720.php?id=cctv13
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/cctv14.png",CCTV14少儿
+http://182.92.109.190:1668/migu720/migu720.php?id=cctv14
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/cctv15.png",CCTV15音乐
+http://182.92.109.190:1668/migu720/migu720.php?id=cctv15
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/东方卫视.png",东方卫视
+http://182.92.109.190:1668/migu720/migu720.php?id=dfws
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/吉林卫视.png",吉林卫视
+http://182.92.109.190:1668/migu720/migu720.php?id=jlws
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/湖北卫视.png",湖北卫视
+http://182.92.109.190:1668/migu720/migu720.php?id=hubws
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png",江苏卫视
+http://182.92.109.190:1668/migu720/migu720.php?id=jsws
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/大湾区卫视.png",大湾区卫视
+http://182.92.109.190:1668/migu720/migu720.php?id=dwqws
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/河南卫视.png",河南卫视
+http://182.92.109.190:1668/migu720/migu720.php?id=hnws
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/海南卫视.png",海南卫视
+http://182.92.109.190:1668/migu720/migu720.php?id=hinws
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/青海卫视.png",青海卫视
+http://182.92.109.190:1668/migu720/migu720.php?id=qhws
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/四海钓鱼.png",四海钓鱼
+http://182.92.109.190:1668/migu720/migu720.php?id=shdy
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/兵团卫视.png",兵团卫视
+http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/兵团卫视.png",兵团卫视
+http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/东方影视.png",东方影视
+http://182.92.109.190:1668/migu720/migu720.php?id=dfys
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/上海新闻综合.png",上海新闻综合
+http://182.92.109.190:1668/migu720/migu720.php?id=shxwzh
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/上海第一财经.png",上海第一财经
+http://182.92.109.190:1668/migu720/migu720.php?id=dycj
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/上视纪实.png",上视纪实人文
+http://182.92.109.190:1668/migu720/migu720.php?id=shjsrw
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/上海外语.png",上海外语
+http://182.92.109.190:1668/migu720/migu720.php?id=shics
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/法治天地.png",法治天地
+http://182.92.109.190:1668/migu720/migu720.php?id=fztd
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/劲爆体育.png",劲爆体育
+http://182.92.109.190:1668/migu720/migu720.php?id=jbty
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/魅力足球.png",魅力足球
+http://182.92.109.190:1668/migu720/migu720.php?id=mlzq
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/乐游.png",乐游
+http://182.92.109.190:1668/migu720/migu720.php?id=ly
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/欢笑剧场.png",欢笑剧场
+http://182.92.109.190:1668/migu720/migu720.php?id=hxjc
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/七彩戏剧.png",七彩戏剧
+http://182.92.109.190:1668/migu720/migu720.php?id=qcxj
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/游戏风云.png",游戏风云
+http://182.92.109.190:1668/migu720/migu720.php?id=yxfy
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/临平新闻.png",临洮电视台
+http://182.92.109.190:1668/migu720/migu720.php?id=lttv
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/江苏城市.png",江苏城市
+http://182.92.109.190:1668/migu720/migu720.php?id=jscs
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/江苏综艺.png",江苏综艺
+http://182.92.109.190:1668/migu720/migu720.php?id=jszy
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/江苏影视.png",江苏影视
+http://182.92.109.190:1668/migu720/migu720.php?id=jsys
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/江苏国际.png",江苏国际
+http://182.92.109.190:1668/migu720/migu720.php?id=jsgj
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/江苏教育.png",江苏教育
+http://182.92.109.190:1668/migu720/migu720.php?id=jsjy
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/发现之旅.png",CCTV发现之旅
+http://182.92.109.190:1668/migu720/migu720.php?id=fxzl
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/老故事.png",CCTV老故事
+http://182.92.109.190:1668/migu720/migu720.php?id=lgs
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/中学生.png",CCTV中学生
+http://182.92.109.190:1668/migu720/migu720.php?id=zxs
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/cgtn.png",CGTN
+http://182.92.109.190:1668/migu720/migu720.php?id=cgtn
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/cgtn纪录.png",CGTN纪录
+http://182.92.109.190:1668/migu720/migu720.php?id=cgtnjl
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/CGTN法语NEW.png",CCTV法语
+http://182.92.109.190:1668/migu720/migu720.php?id=cgtnf
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/阿拉伯语.png",CCTV阿拉伯语
+http://182.92.109.190:1668/migu720/migu720.php?id=cgtna
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/cgtn俄语.png",CCTV俄语
+http://182.92.109.190:1668/migu720/migu720.php?id=cgtnr
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/优漫卡通.png",优漫卡通
+http://182.92.109.190:1668/migu720/migu720.php?id=ymkt
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/南京新闻综合.png",南京新闻综合
+http://182.92.109.190:1668/migu720/migu720.php?id=njxwzh
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/南京教科.png",南京教科
+http://182.92.109.190:1668/migu720/migu720.php?id=njkj
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/南京十八.png",南京十八
+http://182.92.109.190:1668/migu720/migu720.php?id=njsb
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/淮安频道.png",淮安新闻综合
+http://182.92.109.190:1668/migu720/migu720.php?id=haxwzh
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/连云港新闻综合.png",连云港新闻综合
+http://182.92.109.190:1668/migu720/migu720.php?id=lygxwzh
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/泰州一套.png",泰州新闻综合
+http://182.92.109.190:1668/migu720/migu720.php?id=tzxwzh
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/宿豫综合.png",宿迁新闻综合
+http://182.92.109.190:1668/migu720/migu720.php?id=sqxwzh
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/徐州电视台.png",徐州新闻综合
+http://182.92.109.190:1668/migu720/migu720.php?id=xzxwzh
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/广东影视.png",广东影视
+http://182.92.109.190:1668/migu720/migu720.php?id=gdys
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/嘉佳卡通.png",嘉佳卡通
+http://182.92.109.190:1668/migu720/migu720.php?id=jjkt
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/CCTV-8电视剧.png",电视剧轮播
+http://182.92.109.190:1668/migu720/migu720.php?id=hllmc1
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/CCTV-8电视剧.png",电视剧轮播
+http://182.92.109.190:1668/migu720/migu720.php?id=hllmc30
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/9EBCBAEB-814A-4765-8885-DA4CF65AB326.png",CBA经典
+http://182.92.109.190:1668/migu720/migu720.php?id=cbajd
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/未知频道.png",掼蛋精英赛
+http://182.92.109.190:1668/migu720/migu720.php?id=gdjys
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/和平精英.png",和平精英赛事
+http://182.92.109.190:1668/migu720/migu720.php?id=hpjxss
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/红色经典.png",红色轮播台
+http://182.92.109.190:1668/migu720/migu720.php?id=hslbt
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/CIBN经典剧场.png",经典动画大集合
+http://182.92.109.190:1668/migu720/migu720.php?id=jddhdjh
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/CCTV-7军事.png",军事迷必看大片
+http://182.92.109.190:1668/migu720/migu720.php?id=jsdp
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/NBA.png",NBA经典
+http://182.92.109.190:1668/migu720/migu720.php?id=nbajd
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/全民热练.png",全民乒乓
+http://182.92.109.190:1668/migu720/migu720.php?id=qmpp
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png",UFC格斗精选
+http://182.92.109.190:1668/migu720/migu720.php?id=ufcgdjx
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/上海五星体育.png",五大联赛经典
+http://182.92.109.190:1668/migu720/migu720.php?id=wdlsjd
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/福建乡村振兴公共频道.png",乡村振兴
+http://182.92.109.190:1668/migu720/migu720.php?id=xczx
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/CBN幸福剧场.png",幸福中国年
+http://182.92.109.190:1668/migu720/migu720.php?id=xfzgn
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/英雄联盟.png",英雄联盟赛事
+http://182.92.109.190:1668/migu720/migu720.php?id=yxlmss
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/周口.png",周杰伦现场
+http://182.92.109.190:1668/migu720/migu720.php?id=zjlxc
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/amc最爱电影.png",最强综艺趴
+http://182.92.109.190:1668/migu720/migu720.php?id=zqzyp
 #EXTINF:-1 group-title="美食" tvg-logo="https://epg.v1.mk/logo/未知频道.png",鲍汁豆腐
 https://vd4.bdstatic.com/mda-nec91x1nvgejnd5u/480p/h264/1652425268946984260/mda-nec91x1nvgejnd5u.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655033746-0-0-1964bc131eb8a4757e126fa7072034c8&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0346634098&vid=13175973280064025498&abtest=all
 #EXTINF:-1 group-title="美食" tvg-logo="https://epg.v1.mk/logo/cctv-世界地理.png",地锅鸡
