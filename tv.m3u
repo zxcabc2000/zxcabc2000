@@ -1,54 +1,63 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="看不了点击" tvg-logo="https://epg.v1.mk/logo/看不了点击.png" group-title="推荐频道",看不了点击
+#EXTINF:-1 tvg-name="看不了点击" tvg-logo="https://epg.v1.mk/logo/看不了点击.png" group-title="看不了点击",看不了点击
 https://aktv.top/live.m3u
-#EXTINF:-1 tvg-name="看不了点击1" tvg-logo="https://epg.v1.mk/logo/看不了点击1.png" group-title="推荐频道",看不了点击1
+#EXTINF:-1 tvg-name="看不了点击1" tvg-logo="https://epg.v1.mk/logo/看不了点击1.png" group-title="看不了点击",看不了点击1
 https://tv.iill.top/m3u/Gather
-#EXTINF:-1 tvg-name="凤凰资讯音频" tvg-logo="https://epg.v1.mk/logo/凤凰资讯音频.png" group-title="推荐频道",凤凰资讯音频
-https://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
-#EXTINF:-1 tvg-name="凤凰中文音频" tvg-logo="https://epg.v1.mk/logo/凤凰中文音频.png" group-title="推荐频道",凤凰中文音频
-https://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
-#EXTINF:-1 tvg-name="cctv13音频" tvg-logo="https://epg.v1.mk/logo/cctv13音频.png" group-title="推荐频道",cctv13音频
-https://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8
-#EXTINF:-1 tvg-name="掼蛋精英赛" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/341/085/202308221004_1692669748086_H169_1080.jpg" group-title="推荐频道",掼蛋精英赛
-https://tv.iill.top/migu/dds
-#EXTINF:-1 tvg-name="陈翔六点半" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/zxcabc2000/zxcabc2000/refs/heads/main/cxldb.png" group-title="推荐频道",陈翔六点半
-http://120.77.28.4:8648/huya.php?id=11274154
-#EXTINF:-1 tvg-name="鹿鼎记" tvg-logo="https://epg.v1.mk/logo/鹿鼎记.png" group-title="推荐频道",鹿鼎记
-http://120.77.28.4:8648/yy.php?id=28265277
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰卫视中文台.png" group-title="推荐频道",凤凰中文
-http://211.72.65.236:8577/.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰卫视中文台.png" group-title="推荐频道",凤凰中文
-http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰卫视中文台.png" group-title="推荐频道",凤凰中文
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰卫视资讯台.png" group-title="推荐频道",凤凰资讯
-http://211.72.65.236:8576/.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰卫视资讯台.png" group-title="推荐频道",凤凰资讯
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰卫视资讯台.png" group-title="推荐频道",凤凰资讯
-http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://epg.v1.mk/logo/凤凰卫视香港台.png" group-title="推荐频道",凤凰香港
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
+
 #EXTINF:-1 tvg-name="cctv13" tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="推荐频道",cctv13
 http://182.92.109.190:1668/migu720/migu720.php?id=cctv13
 #EXTINF:-1 tvg-name="cctv13" tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="推荐频道",cctv13
 https://tv.iill.top/migu/cctv13
 #EXTINF:-1 tvg-name="cctv13" tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="推荐频道",cctv13
 https://tv.iill.top/migu/cctv13
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰卫视中文台.png" group-title="推荐频道",凤凰中文
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰卫视中文台.png" group-title="推荐频道",凤凰中文
+http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰卫视中文台.png" group-title="推荐频道",凤凰中文
+p3p://108.181.32.169:33201/6410229e000655dd98612e41401e3e7d
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰卫视中文台.png" group-title="推荐频道",凤凰中文
+http://kxrj.site:8081/8647/fh.php?id=fhzw
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰卫视中文台.png" group-title="推荐频道",凤凰中文
+http://203.205.220.174:80/qctv.fengshows.cn/live/0701pcc72.m3u8
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰卫视中文台.png" group-title="推荐频道",凤凰中文
+http://211.72.65.236:8577/.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰卫视资讯台.png" group-title="推荐频道",凤凰资讯
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰卫视资讯台.png" group-title="推荐频道",凤凰资讯
+http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰卫视资讯台.png" group-title="推荐频道",凤凰资讯
+p3p://108.181.32.169:33201/641022be000e5cc69861ad4f5a025336
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰卫视资讯台.png" group-title="推荐频道",凤凰资讯
+http://kxrj.site:8081/8647/fh.php?id=fhzx
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰卫视资讯台.png" group-title="推荐频道",凤凰资讯
+http://203.205.220.174:80/qctv.fengshows.cn/live/0701pin72.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰卫视资讯台.png" group-title="推荐频道",凤凰资讯
+http://211.72.65.236:8576/.m3u8
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://epg.v1.mk/logo/凤凰卫视香港台.png" group-title="推荐频道",凤凰香港
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://epg.v1.mk/logo/凤凰卫视香港台.png" group-title="推荐频道",凤凰香港
+p3p://108.181.32.169:33201/641022da0005d3069862188000a64525
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://epg.v1.mk/logo/凤凰卫视香港台.png" group-title="推荐频道",凤凰香港
+http://kxrj.site:8081/8647/fh.php?id=fhhk
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://epg.v1.mk/logo/凤凰卫视香港台.png" group-title="推荐频道",凤凰香港
+http://203.205.220.174:80/qctv.fengshows.cn/live/0701phk72.m3u8
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://epg.v1.mk/logo/中天新闻.png" group-title="推荐频道",中天新闻
 http://211.72.65.236:8541/.m3u8
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://epg.v1.mk/logo/中天新闻.png" group-title="推荐频道",中天新闻
 http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://epg.v1.mk/logo/中天新闻.png" group-title="推荐频道",中天新闻
-https://4gtv.pendy.us.kg/4gtv.php?id=4gtv-4gtv009
+http://litv.zapi.us.kg/?id=4gtv-4gtv009
 #EXTINF:-1 tvg-name="年代新闻" tvg-logo="https://epg.v1.mk/logo/年代新闻.png" group-title="推荐频道",年代新闻
 http://211.72.65.236:8539/.m3u8
 #EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://epg.v1.mk/logo/东森新闻.png" group-title="推荐频道",东森新闻
+http://37.27.111.214:8080/live/20/hls.m3u8
+#EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://epg.v1.mk/logo/东森新闻.png" group-title="推荐频道",东森新闻
 http://211.72.65.236:8540/.m3u8
 #EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://epg.v1.mk/logo/东森新闻.png" group-title="推荐频道",东森新闻
-https://4gtv.pendy.us.kg/4gtv.php?id=4gtv-4gtv152
+http://litv.zapi.us.kg/?id=4gtv-4gtv152
 #EXTINF:-1 tvg-name="华视新闻" tvg-logo="https://epg.v1.mk/logo/华视新闻台.png" group-title="推荐频道",华视新闻
-https://4gtv.pendy.us.kg/4gtv.php?id=4gtv-4gtv052
+http://litv.zapi.us.kg/?id=4gtv-4gtv052
 #EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://epg.v1.mk/logo/三立新闻台.png" group-title="推荐频道",三立新闻
 http://211.72.65.236:8543/.m3u8
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://epg.v1.mk/logo/TVBS新闻.png" group-title="推荐频道",TVBS新闻
@@ -64,11 +73,25 @@ http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
 #EXTINF:-1 tvg-name="寰宇新聞台" tvg-logo="https://epg.v1.mk/logo/寰宇新聞台.png" group-title="推荐频道",寰宇新聞
 http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://epg.v1.mk/logo/TVBS新闻.png" group-title="推荐频道",TVBS新闻
-https://4gtv.pendy.us.kg/4gtv.php?id=4gtv-4gtv072
+http://litv.zapi.us.kg/?id=4gtv-4gtv072
 #EXTINF:-1 tvg-name="台視新聞" tvg-logo="https://epg.v1.mk/logo/台視新聞.png" group-title="推荐频道",台視新聞
-https://4gtv.pendy.us.kg/4gtv.php?id=4gtv-4gtv051
+http://litv.zapi.us.kg/?id=4gtv-4gtv051
 #EXTINF:-1 tvg-name="亞洲新聞" tvg-logo="https://epg.v1.mk/logo/亞洲新聞.png" group-title="推荐频道",亞洲新聞
 http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
+#EXTINF:-1 tvg-name="掼蛋精英赛" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/341/085/202308221004_1692669748086_H169_1080.jpg" group-title="推荐频道",掼蛋精英赛
+https://tv.iill.top/migu/dds
+#EXTINF:-1 tvg-name="陈翔六点半" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/zxcabc2000/zxcabc2000/refs/heads/main/cxldb.png" group-title="推荐频道",陈翔六点半
+http://120.77.28.4:8648/huya.php?id=11274154
+#EXTINF:-1 tvg-name="鹿鼎记" tvg-logo="https://epg.v1.mk/logo/鹿鼎记.png" group-title="推荐频道",鹿鼎记
+http://120.77.28.4:8648/yy.php?id=28265277
+#EXTINF:-1 tvg-name="cctv13音频" tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="推荐频道",cctv13广播
+https://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯音频" tvg-logo="https://epg.v1.mk/logo/凤凰卫视资讯台.png" group-title="推荐频道",凤凰资讯广播
+https://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
+#EXTINF:-1 tvg-name="凤凰中文音频" tvg-logo="https://epg.v1.mk/logo/凤凰卫视中文台.png.png" group-title="推荐频道",凤凰中文广播
+https://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
+
+
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="广东IPTV",CCTV1综合
 http://218.13.170.98:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,tvg-id="cctv2" tvg-name="cctv2" tvg-logo="https://epg.v1.mk/logo/cctv2.png" group-title="广东IPTV",CCTV2财经
@@ -173,6 +196,8 @@ http://218.13.170.98:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
 http://218.13.170.98:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.v1.mk/logo/金鹰卡通.png" group-title="广东IPTV",金鹰卡通
 http://218.13.170.98:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="iill",CCTV1综合
 https://tv.iill.top/migu/cctv1
 #EXTINF:-1,tvg-id="cctv2" tvg-name="cctv2" tvg-logo="https://epg.v1.mk/logo/cctv2.png" group-title="iill",CCTV2财经
@@ -329,6 +354,8 @@ https://tv.iill.top/phenix/fhhk
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1,tvg-id="澳门莲花" tvg-name="澳门莲花" tvg-logo="https://epg.v1.mk/logo/澳门莲花.png" group-title="iill",澳門蓮花
 https://tv.iill.top/mo/lhws
+
+
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="香港「限安卓」", 翡翠台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -624,6 +651,8 @@ http://caocaocaocao.hg16888.vip/mytvsuper/C3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1ba88eacde780c7567255b8b33026ae5:f7df792aab8992b79d72a8d01987ecb5
 http://caocaocaocao.hg16888.vip/mytvsuper/C2
+
+
 #EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/CCTV1.png",CCTV1综合
 http://182.92.109.190:1668/migu720/migu720.php?id=cctv1
 #EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/cctv2.png",CCTV2财经
@@ -790,6 +819,8 @@ http://182.92.109.190:1668/migu720/migu720.php?id=yxlmss
 http://182.92.109.190:1668/migu720/migu720.php?id=zjlxc
 #EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/amc最爱电影.png",最强综艺趴
 http://182.92.109.190:1668/migu720/migu720.php?id=zqzyp
+
+
 #EXTINF:-1 group-title="美食" tvg-logo="https://epg.v1.mk/logo/未知频道.png",鲍汁豆腐
 https://vd4.bdstatic.com/mda-nec91x1nvgejnd5u/480p/h264/1652425268946984260/mda-nec91x1nvgejnd5u.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655033746-0-0-1964bc131eb8a4757e126fa7072034c8&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0346634098&vid=13175973280064025498&abtest=all
 #EXTINF:-1 group-title="美食" tvg-logo="https://epg.v1.mk/logo/cctv-世界地理.png",地锅鸡
@@ -1504,20 +1535,8 @@ https://vd4.bdstatic.com/mda-neu9v10u2tk22kwt/480p/h264/1653808467692279237/mda-
 https://vd4.bdstatic.com/mda-nf29yjvnrcqwwy2q/480p/h264/1654240313985806512/mda-nf29yjvnrcqwwy2q.mp4?
 #EXTINF:-1 group-title="美食" tvg-logo="https://epg.v1.mk/logo/ASIANFOODNETWORK亚洲美食.png",食叔烤全羊
 https://vd4.bdstatic.com/mda-nf7a3a7fkagmh17j/480p/h264/1654672594780789869/mda-nf7a3a7fkagmh17j.mp4?
-#EXTINF:-1,tvg-id="TVB无线新闻PNG" tvg-name="TVB无线新闻PNG" tvg-logo="https://epg.v1.mk/logo/TVB无线新闻PNG.png" group-title="P2P",TVB无线新闻
-P2p://147.135.39.171:9906/665fe3b70003d98a2157b5c1769244d0
-#EXTINF:-1,tvg-id="TVB无线新闻PNG" tvg-name="TVB无线新闻PNG" tvg-logo="https://epg.v1.mk/logo/TVB无线新闻PNG.png" group-title="P2P",TVB无线新闻
-P2p://147.135.39.171:9906/66e6d974000126e3308846c86ed76d6e
-#EXTINF:-1,tvg-id="ANIPLUS" tvg-name="ANIPLUS" tvg-logo="https://epg.v1.mk/logo/ANIPLUS.png" group-title="P2P",ANIPLUS
-P2p://147.135.39.171:9906/65fd6048000be8b2a085bc4d061c504d﻿
-#EXTINF:-1,tvg-id="中天新闻2台" tvg-name="中天新闻2台" tvg-logo="https://epg.v1.mk/logo/中天新闻2台.png" group-title="P2P",中天新闻2台
-P2p://147.135.39.171:9906/66b0b26c0009271c5cff97de758b22d0
-#EXTINF:-1,tvg-id="TVB无线新闻PNG" tvg-name="TVB无线新闻PNG" tvg-logo="https://epg.v1.mk/logo/TVB无线新闻PNG.png" group-title="P2P",无线新闻
-P2p://147.135.39.171:9906/665fe3b70003d98a2157b5c1769244d0
-#EXTINF:-1,tvg-id="TVB无线新闻PNG" tvg-name="TVB无线新闻PNG" tvg-logo="https://epg.v1.mk/logo/TVB无线新闻PNG.png" group-title="P2P",TVB无线新闻
-P2p://147.135.39.171:9906/66e6d974000126e3308846c86ed76d6e
-#EXTINF:-1,tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://epg.v1.mk/logo/中天新闻.png" group-title="P2P",中天新闻频道
-p2p://142.54.189.229:3456/64de52a70006e20d01b906297b7d0f95
+
+
 #EXTINF:-1,tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://epg.v1.mk/logo/RTHK31.png" group-title="P2P",RTHK-31频陆
 p3p://108.181.32.169:33201/64101f330006ab429853d45f7940453b
 #EXTINF:-1,tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://epg.v1.mk/logo/RTHK32.png" group-title="P2P",RTHK-32频陆
@@ -4324,9 +4343,3 @@ p3p://108.181.32.169:33201/64682d86000d9dd7f049c5be62a544dc
 p3p://108.181.32.169:33201/64682d920000784af049f14136c47100
 #EXTINF:-1,tvg-id="64380CD7912397DDA14400F5FCCEA5B7D0A20DF429A7" tvg-name="64380CD7912397DDA14400F5FCCEA5B7D0A20DF429A7" tvg-logo="https://epg.v1.mk/logo/64380CD7912397DDA14400F5FCCEA5B7D0A20DF429A7.png" group-title="P2P",CCX
 p3p://108.181.32.169:33201/64682d9d0007d19ef04a1e1b33280293
-
-
-
-
-
-
