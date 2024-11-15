@@ -79,6 +79,8 @@ http://litv.zapi.us.kg/?id=4gtv-4gtv051
 #EXTINF:-1 tvg-name="亞洲新聞" tvg-logo="https://epg.v1.mk/logo/亞洲新聞.png" group-title="推荐频道",亞洲新聞
 http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
 #EXTINF:-1 tvg-name="掼蛋精英赛" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/341/085/202308221004_1692669748086_H169_1080.jpg" group-title="推荐频道",掼蛋精英赛
+http://182.92.109.190:1668/migu720/migu720.php?id=gdjys
+#EXTINF:-1 tvg-name="掼蛋精英赛" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/341/085/202308221004_1692669748086_H169_1080.jpg" group-title="推荐频道",掼蛋精英赛
 https://tv.iill.top/migu/dds
 #EXTINF:-1 tvg-name="陈翔六点半" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/zxcabc2000/zxcabc2000/refs/heads/main/cxldb.png" group-title="推荐频道",陈翔六点半
 http://120.77.28.4:8648/huya.php?id=11274154
@@ -791,7 +793,7 @@ http://182.92.109.190:1668/migu720/migu720.php?id=hllmc1
 http://182.92.109.190:1668/migu720/migu720.php?id=hllmc30
 #EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/9EBCBAEB-814A-4765-8885-DA4CF65AB326.png",CBA经典
 http://182.92.109.190:1668/migu720/migu720.php?id=cbajd
-#EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/未知频道.png",掼蛋精英赛
+#EXTINF:-1 group-title="182咪咕" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/341/085/202308221004_1692669748086_H169_1080.jpg",掼蛋精英赛
 http://182.92.109.190:1668/migu720/migu720.php?id=gdjys
 #EXTINF:-1 group-title="182咪咕" tvg-logo="https://epg.v1.mk/logo/和平精英.png",和平精英赛事
 http://182.92.109.190:1668/migu720/migu720.php?id=hpjxss
