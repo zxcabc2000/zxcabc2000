@@ -10,6 +10,8 @@ http://182.92.109.190:1668/migu720/migu720.php?id=cctv13
 https://api.livednow.org/migu/608807423?sign=gAAAAABnJcJqWcv58U6OGzQabwzd_fRQdYIiL56pNYvWDLYx8OqIYIZTaT5ceZHRyt06wODism6P1aOwUkuZhiEfldQ55DPEyxVt51QPQHSDakx6DZ2ucwlxwe6nUNX83Y9VomRK3nxUdOy7T5XXGKyCDKucirezIa1eLScwKqq2ONtkQFwIsf7M2R3c5RDB5YQ6uMRY3eA0hSaiRTacGYQSjA_U1rUG5g%3D%3D
 #EXTINF:-1 tvg-name="cctv13" tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="推荐频道",cctv13
 http://kxrj.site:8081/8647/mg.php?id=cctv13
+#EXTINF:-1 tvg-name="cctv13" tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="推荐频道",cctv13
+http://218.13.170.98:9901/tsfile/live/0013_1.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰卫视中文台.png" group-title="推荐频道",凤凰中文
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰卫视中文台.png" group-title="推荐频道",凤凰中文
@@ -19,7 +21,7 @@ p3p://108.181.32.169:25221/6410229e000655dd98612e41401e3e7d
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰卫视中文台.png" group-title="推荐频道",凤凰中文
 http://kxrj.site:8081/8647/fh.php?id=fhzw
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰卫视中文台.png" group-title="推荐频道",凤凰中文
-http://203.205.220.174:80/qctv.fengshows.cn/live/0701pcc72.m3u8
+http://122.224.232.226:8888/udp/233.50.200.191:5140
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰卫视中文台.png" group-title="推荐频道",凤凰中文
 http://211.72.65.236:8577/.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰卫视资讯台.png" group-title="推荐频道",凤凰资讯
@@ -31,7 +33,7 @@ p3p://108.181.32.169:25221/641022be000e5cc69861ad4f5a025336
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰卫视资讯台.png" group-title="推荐频道",凤凰资讯
 http://kxrj.site:8081/8647/fh.php?id=fhzx
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰卫视资讯台.png" group-title="推荐频道",凤凰资讯
-http://203.205.220.174:80/qctv.fengshows.cn/live/0701pin72.m3u8
+http://122.224.232.226:8888/udp/233.50.200.192:5140
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰卫视资讯台.png" group-title="推荐频道",凤凰资讯
 http://211.72.65.236:8576/.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://epg.v1.mk/logo/凤凰卫视香港台.png" group-title="推荐频道",凤凰香港
@@ -66,6 +68,8 @@ http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 https://live.hkdvb.com/hls/live/800.m3u8?token=713733171373125
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="推荐频道",翡翠台
 http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="推荐频道",翡翠台
+http://php.jdshipin.com/smt.php?id=jade_twn
 #EXTINF:-1 tvg-name="無線新聞" tvg-logo="https://epg.v1.mk/logo/無線新聞.png" group-title="推荐频道",無線新聞
 http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://epg.v1.mk/logo/明珠台.png" group-title="推荐频道",明珠台
