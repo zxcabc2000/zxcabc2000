@@ -93,6 +93,16 @@ https://api.livednow.org/migu/631354620?sign=gAAAAABnJcJqNIywGZ8ozE_htAbG3nkxbrb
 http://120.77.28.4:8648/huya.php?id=11274154
 #EXTINF:-1 tvg-name="鹿鼎记" tvg-logo="https://epg.v1.mk/logo/鹿鼎记.png" group-title="推荐频道",鹿鼎记
 http://120.77.28.4:8648/yy.php?id=28265277
+#EXTINF:-1 tvg-name="鹿鼎记" tvg-logo="https://epg.v1.mk/logo/鹿鼎记.png" group-title="推荐频道",鹿鼎记
+http://43.138.0.72:35455/yy/1382704650
+#EXTINF:-1 tvg-name="鹿鼎记" tvg-logo="https://epg.v1.mk/logo/鹿鼎记.png" group-title="推荐频道",鹿鼎记
+http://43.138.0.72:35455/yy/28265277
+#EXTINF:-1 tvg-name="宋小宝" tvg-logo="https://epg.v1.mk/logo/宋小宝.png" group-title="推荐频道",宋小宝
+http://43.138.0.72:35455/yy/1354931577
+#EXTINF:-1 tvg-name="宋小宝" tvg-logo="https://epg.v1.mk/logo/宋小宝.png" group-title="推荐频道",宋小宝
+http://43.138.0.72:35455/yy/1382736866
+#EXTINF:-1 tvg-name="宋小宝" tvg-logo="https://epg.v1.mk/logo/宋小宝.png" group-title="推荐频道",宋小宝
+http://43.138.0.72:35455/yy/1354936198
 #EXTINF:-1 tvg-name="cctv13音频" tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="推荐频道",cctv13广播
 https://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯音频" tvg-logo="https://epg.v1.mk/logo/凤凰卫视资讯台.png" group-title="推荐频道",凤凰资讯广播
@@ -363,6 +373,18 @@ https://tv.iill.top/phenix/fhhk
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1,tvg-id="澳门莲花" tvg-name="澳门莲花" tvg-logo="https://epg.v1.mk/logo/澳门莲花.png" group-title="iill",澳門蓮花
 https://tv.iill.top/mo/lhws
+#EXTINF:-1,tvg-id="三立新聞" tvg-name="三立新聞" tvg-logo="https://epg.v1.mk/logo/三立新聞.png" group-title="iill",三立新聞
+https://tv.iill.top/4gtv/229
+#EXTINF:-1,tvg-id="三立綜合台" tvg-name="三立綜合台" tvg-logo="https://epg.v1.mk/logo/三立綜合台.png" group-title="iill",三立綜合台
+https://tv.iill.top/4gtv/169
+#EXTINF:-1,tvg-id="中天亞洲台" tvg-name="中天亞洲台" tvg-logo="https://epg.v1.mk/logo/中天亞洲台.png" group-title="iill",中天亞洲台
+https://tv.iill.top/litv/4gtv-4gtv109
+#EXTINF:-1,tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://epg.v1.mk/logo/中天新聞台.png" group-title="iill",中天新聞台
+https://tv.iill.top/litv/4gtv-4gtv009
+#EXTINF:-1,tvg-id="中視" tvg-name="中視" tvg-logo="https://epg.v1.mk/logo/中視.png" group-title="iill",中視
+https://tv.iill.top/litv/4gtv-4gtv040
+#EXTINF:-1,tvg-id="中視新聞台" tvg-name="中視新聞台" tvg-logo="https://epg.v1.mk/logo/中視新聞台.png" group-title="iill",中視新聞台
+https://tv.iill.top/litv/4gtv-4gtv074
 
 
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="香港「限安卓」", 翡翠台
@@ -830,6 +852,10 @@ http://182.92.109.190:1668/migu720/migu720.php?id=zjlxc
 http://182.92.109.190:1668/migu720/migu720.php?id=zqzyp
 
 
+#EXTINF:-1 group-title="美食" tvg-logo="https://epg.v1.mk/logo/未知频道.png",舌尖上的中国第一季
+http://43.138.0.72:35455/yy/1354930952
+#EXTINF:-1 group-title="美食" tvg-logo="https://epg.v1.mk/logo/未知频道.png",老广的味道第三季
+http://43.138.0.72:35455/yy/1382735565
 #EXTINF:-1 group-title="美食" tvg-logo="https://epg.v1.mk/logo/未知频道.png",鲍汁豆腐
 https://vd4.bdstatic.com/mda-nec91x1nvgejnd5u/480p/h264/1652425268946984260/mda-nec91x1nvgejnd5u.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655033746-0-0-1964bc131eb8a4757e126fa7072034c8&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0346634098&vid=13175973280064025498&abtest=all
 #EXTINF:-1 group-title="美食" tvg-logo="https://epg.v1.mk/logo/cctv-世界地理.png",地锅鸡
