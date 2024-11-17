@@ -4,7 +4,10 @@ https://aktv.top/live.m3u
 #EXTINF:-1 tvg-name="看不了点击1" tvg-logo="https://epg.v1.mk/logo/看不了点击1.png" group-title="看不了点击",看不了点击1
 https://tv.iill.top/m3u/Gather
 
-#EXTINF:-1 tvg-name="cctv13" tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="推荐频道",cctv13
+
+EXTINF:-1 tvg-name="cctv13" tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="推荐频道",cctv13
+http://42.48.50.232:9002/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+EXTINF:-1 tvg-name="cctv13" tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="推荐频道",cctv13
 http://182.92.109.190:1668/migu720/migu720.php?id=cctv13
 #EXTINF:-1 tvg-name="cctv13" tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="推荐频道",cctv13
 https://api.livednow.org/migu/608807423?sign=gAAAAABnJcJqWcv58U6OGzQabwzd_fRQdYIiL56pNYvWDLYx8OqIYIZTaT5ceZHRyt06wODism6P1aOwUkuZhiEfldQ55DPEyxVt51QPQHSDakx6DZ2ucwlxwe6nUNX83Y9VomRK3nxUdOy7T5XXGKyCDKucirezIa1eLScwKqq2ONtkQFwIsf7M2R3c5RDB5YQ6uMRY3eA0hSaiRTacGYQSjA_U1rUG5g%3D%3D
