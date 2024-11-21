@@ -2,15 +2,15 @@
 凤凰资讯伴音,https://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
 凤凰中文伴音,https://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
 cctv13伴音,https://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8
-凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw#http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8#p3p://108.181.32.169:41467/6410229e000655dd98612e41401e3e7d#http://kxrj.site:8081/8647/fh.php?id=fhzw#http://122.224.232.226:8888/udp/233.50.200.191:5140#http://211.72.65.236:8577/.m3u8
-凤凰资讯,p3p://108.181.32.169:41467/641fd7b400080236d5bc536f5d82159c#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx#http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8#p3p://108.181.32.169:41467/641022be000e5cc69861ad4f5a025336#http://kxrj.site:8081/8647/fh.php?id=fhzx#http://122.224.232.226:8888/udp/233.50.200.192:5140#http://211.72.65.236:8576/.m3u8
-凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk#p3p://108.181.32.169:41467/641022da0005d3069862188000a64525#http://kxrj.site:8081/8647/fh.php?id=fhhk
+凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw#http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8#p3p://108.181.32.169:41467/6410229e000655dd98612e41401e3e7d#http://203.205.220.174:80/qctv.fengshows.cn/live/0701pcc72.m3u8#http://1b6467f415.iok.la:9931/tsfile/live/1037_1.m3u8#http://211.72.65.236:8577/.m3u8
+凤凰资讯,p3p://108.181.32.169:41467/641fd7b400080236d5bc536f5d82159c#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx#http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8#p3p://108.181.32.169:41467/641022be000e5cc69861ad4f5a025336#http://203.205.220.174:80/qctv.fengshows.cn/live/0701pin72.m3u8#http://122.224.232.226:8888/udp/233.50.200.192:5140#http://211.72.65.236:8576/.m3u8
+凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk#p3p://108.181.32.169:41467/641022da0005d3069862188000a64525#http://203.205.220.174:80/qctv.fengshows.cn/live/0701phk72.m3u8
 翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 無線新聞,p3p://108.181.32.169:41467/6533fd5600043bdb2d1c8c0729c35d0c#p3p://108.181.32.169:41467/6533f9fb00006d352d0f6f9235041f8d#http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
-NOW 新闻台,p3p://108.181.32.169:41467/6410254c0006df63986ba60f292a7500
-cctv13,https://api.livednow.org/migu/608807423?sign=gAAAAABnJcJqWcv58U6OGzQabwzd_fRQdYIiL56pNYvWDLYx8OqIYIZTaT5ceZHRyt06wODism6P1aOwUkuZhiEfldQ55DPEyxVt51QPQHSDakx6DZ2ucwlxwe6nUNX83Y9VomRK3nxUdOy7T5XXGKyCDKucirezIa1eLScwKqq2ONtkQFwIsf7M2R3c5RDB5YQ6uMRY3eA0hSaiRTacGYQSjA_U1rUG5g%3D%3D#http://lives.jnnews.tv/video/s10001-cctv/index.m3u8#http://182.92.109.190:1668/migu720/migu720.php?id=cctv13#http://kxrj.site:8081/8647/mg.php?id=cctv13#http://218.13.170.98:9901/tsfile/live/0013_1.m3u8
-中天新闻,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8#http://litv.zapi.us.kg/?id=4gtv-4gtv009#p3p://108.181.32.169:41467/64252571000be01dea73c63b5616781e#p3p://108.181.32.169:41467/642590050003b317ec1416371a246f3d#http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8#http://211.72.65.236:8541/.m3u8
+NOW新闻台,p3p://108.181.32.169:41467/6410254c0006df63986ba60f292a7500
+cctv13,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000345/index.m3u8?IASHttpSessionId=#http://lives.jnnews.tv/video/s10001-cctv/index.m3u8#http://182.92.109.190:1668/migu720/migu720.php?id=cctv13#p3p://108.181.32.169:41467/64260e45000ccab2ee01428e6da4043d#http://218.13.170.98:9901/tsfile/live/0013_1.m3u8
+中天新闻,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8#https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8#http://litv.zapi.us.kg/?id=4gtv-4gtv009#p3p://108.181.32.169:41467/64252571000be01dea73c63b5616781e#p3p://108.181.32.169:41467/642590050003b317ec1416371a246f3d#http://211.72.65.236:8541/.m3u8
 年代新闻,p3p://108.181.32.169:41467/645b2569000acf2fbd624de55e212fb2#http://211.72.65.236:8539/.m3u8
 东森新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv152#p3p://108.181.32.169:41467/64251f9700046520ea5ce8b85b6c11da#http://211.72.65.236:8540/.m3u8
 华视新闻,https://stream1.freetv.fun/hua-shi-xin-wen-5.m3u8
@@ -21,9 +21,8 @@ TVBS新闻,p3p://108.181.32.169:41467/64252188000673fcea647eb0397d464d#http://ak
 民视新闻,p3p://108.181.32.169:41467/64c859e10007934267f487ac0fa618e0
 中视新闻,p3p://108.181.32.169:41467/642d016e000643ab0926e0907da252ca
 壹新闻,p3p://108.181.32.169:41467/642521bd0005dfe9ea654d921969472d
-宋小宝,http://43.138.0.72:35455/yy/1354931577#http://43.138.0.72:35455/yy/1354936198#http://43.138.0.72:35455/yy/1382736866
 陈翔六点半,http://120.77.28.4:8648/huya.php?id=11274154
-鹿鼎记,http://120.77.28.4:8648/yy.php?id=28265277#http://43.138.0.72:35455/yy/28265277#http://43.138.0.72:35455/yy/1382704650
+鹿鼎记,http://120.77.28.4:8648/huya.php?id=23865080#http://120.77.28.4:8648/yy.php?id=28265277#http://43.138.0.72:35455/yy/28265277#http://43.138.0.72:35455/yy/1382704650
 掼蛋精英赛,http://182.92.109.190:1668/migu720/migu720.php?id=gdjys#https://api.livednow.org/migu/631354620?sign=gAAAAABnJcJqNIywGZ8ozE_htAbG3nkxbrbm55tG7vonMDA9GddAjTREzK-pe0a682YPC6HxNkY29gecqP0na8DPWuAI0sA7mRdBqJ-_wKUY5hd8SuISARxQ62qjgbD1sGsdLbFKNiXfy_Eec0ZrUStKTvgExcF4p5UDXpMr2F93xcTybbLobqENCZ3aCPejaUBIDjZUifLhpRuZZZ3o0zb-kQw-xSl8Dg%3D%3D
 看不了激活,#genre#
 AKTV,https://aktv.top/live.m3u
