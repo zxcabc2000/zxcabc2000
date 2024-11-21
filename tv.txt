@@ -15,7 +15,7 @@ cctv13,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.li
 东森新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv152#p3p://108.181.32.169:41467/64251f9700046520ea5ce8b85b6c11da#http://211.72.65.236:8540/.m3u8
 华视新闻,https://stream1.freetv.fun/hua-shi-xin-wen-5.m3u8
 三立新闻,p3p://108.181.32.169:41467/64251e23000bcd04ea573d7c0f0a002e#http://211.72.65.236:8543/.m3u8
-TVBS新闻,p3p://108.181.32.169:41467/64252188000673fcea647eb0397d464d#http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+TVBS新闻,p3p://108.181.32.169:41467/64252188000673fcea647eb0397d464d#http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8#http://61.221.215.25:8800/hls/9/index.m3u8
 寰宇新聞,p3p://108.181.32.169:41467/64295eb60008744efaf37ae07d17520b#http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 非凡新闻,p3p://108.181.32.169:41467/64258e8600060f7eec0e3ebd6c49020e
 民视新闻,p3p://108.181.32.169:41467/64c859e10007934267f487ac0fa618e0
