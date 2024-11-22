@@ -9,7 +9,7 @@ cctv13伴音,https://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8
 無線新聞,p3p://108.181.32.169:41467/6533fd5600043bdb2d1c8c0729c35d0c#p3p://108.181.32.169:41467/6533f9fb00006d352d0f6f9235041f8d#http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
 NOW新闻台,p3p://108.181.32.169:41467/6410254c0006df63986ba60f292a7500
-cctv13,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000345/index.m3u8?IASHttpSessionId=#http://lives.jnnews.tv/video/s10001-cctv/index.m3u8#http://182.92.109.190:1668/migu720/migu720.php?id=cctv13#p3p://108.181.32.169:41467/64260e45000ccab2ee01428e6da4043d#http://218.13.170.98:9901/tsfile/live/0013_1.m3u8
+cctv13,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000345/index.m3u8?IASHttpSessionId=#http://kxrj.site:1333/86/mg.php?id=cctv13#http://lives.jnnews.tv/video/s10001-cctv/index.m3u8#http://182.92.109.190:1668/migu720/migu720.php?id=cctv13#p3p://108.181.32.169:41467/64260e45000ccab2ee01428e6da4043d#http://218.13.170.98:9901/tsfile/live/0013_1.m3u8
 中天新闻,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8#https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8#http://litv.zapi.us.kg/?id=4gtv-4gtv009#p3p://108.181.32.169:41467/64252571000be01dea73c63b5616781e#p3p://108.181.32.169:41467/642590050003b317ec1416371a246f3d#http://211.72.65.236:8541/.m3u8
 年代新闻,p3p://108.181.32.169:41467/645b2569000acf2fbd624de55e212fb2#http://211.72.65.236:8539/.m3u8
 东森新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv152#p3p://108.181.32.169:41467/64251f9700046520ea5ce8b85b6c11da#http://211.72.65.236:8540/.m3u8
@@ -21,8 +21,8 @@ TVBS新闻,p3p://108.181.32.169:41467/64252188000673fcea647eb0397d464d#http://ak
 民视新闻,p3p://108.181.32.169:41467/64c859e10007934267f487ac0fa618e0
 中视新闻,p3p://108.181.32.169:41467/642d016e000643ab0926e0907da252ca
 壹新闻,p3p://108.181.32.169:41467/642521bd0005dfe9ea654d921969472d
-陈翔六点半,http://120.77.28.4:8648/huya.php?id=11274154
-鹿鼎记,http://120.77.28.4:8648/huya.php?id=23865080#http://120.77.28.4:8648/yy.php?id=28265277#http://43.138.0.72:35455/yy/28265277#http://43.138.0.72:35455/yy/1382704650
+陈翔六点半,http://120.77.28.4:8648/huya.php?id=11274154#http://diyp.zxxoo.work/huya/11274154
+鹿鼎记,http://120.77.28.4:8648/huya.php?id=23865080#http://diyp.zxxoo.work/huya/23865080#http://120.77.28.4:8648/yy.php?id=28265277#http://43.138.0.72:35455/yy/28265277#http://43.138.0.72:35455/yy/1382704650
 掼蛋精英赛,http://182.92.109.190:1668/migu720/migu720.php?id=gdjys
 看不了激活,#genre#
 AKTV,https://aktv.top/live.m3u
