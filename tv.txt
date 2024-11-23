@@ -2077,7 +2077,7 @@ RainyRabbits,http://120.77.28.4:8648/huya.php?id=30080172#http://diyp.zxxoo.work
 今夜欢乐颂,http://jiaojirentv.top/2020/yy.php?id=1382735572
 笑声传奇,http://jiaojirentv.top/2020/yy.php?id=1382736880
 笑傲江湖第一季,http://jiaojirentv.top/2020/yy.php?id=1382749896
-p3p,#genre#
+p3p_888,#genre#
 松視1台,p3p://108.181.32.169:29922/650b87f1000d765a8f12ea107fd81201
 松視3台,p3p://108.181.32.169:29922/650b8a0e000007df8f1b27da75d42f65
 松視2台,p3p://108.181.32.169:29922/650b8a51000ac6568f1c30530c503d72
@@ -2893,7 +2893,7 @@ ViuTV,P2p://generationnexxxt.com:19806/956aa1340cd5439689da84cff7a5eaae
 好莱坞电影,http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
 HBOHD,http://50.7.234.10:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
 美亚电影,http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
-台湾台湾,#genre#
+台湾台湾_888,#genre#
 松視1台,p3p://108.181.32.169:29922/650b87f1000d765a8f12ea107fd81201
 松視3台,p3p://108.181.32.169:29922/650b8a0e000007df8f1b27da75d42f65
 松視2台,p3p://108.181.32.169:29922/650b8a51000ac6568f1c30530c503d72
