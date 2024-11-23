@@ -22,7 +22,8 @@ TVBS新闻,p3p://108.181.32.169:33443/64252188000673fcea647eb0397d464d#http://ak
 明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
 NOW新闻台,p3p://108.181.32.169:33443/6410254c0006df63986ba60f292a7500
 陈翔六点半,http://120.77.28.4:8648/huya.php?id=11274154#http://diyp.zxxoo.work/huya/11274154
-鹿鼎记,http://120.77.28.4:8648/huya.php?id=23865080#http://diyp.zxxoo.work/huya/23865080#http://120.77.28.4:8648/yy.php?id=28265277#http://43.138.0.72:35455/yy/28265277#http://43.138.0.72:35455/yy/1382704650
+宋小宝,http://jiaojirentv.top/2020/yy.php?id=1354931577#http://jiaojirentv.top/2020/yy.php?id=1354936198#http://jiaojirentv.top/2020/yy.php?id=1382736866
+鹿鼎记,http://jiaojirentv.top/2020/yy.php?id=28265277#http://120.77.28.4:8648/huya.php?id=23865080#http://diyp.zxxoo.work/huya/23865080
 掼蛋精英赛,http://182.92.109.190:1668/migu720/migu720.php?id=gdjys#http://kxrj.site:1333/86/mg.php?id=gdjys
 看不了激活,#genre#
 AKTV,https://aktv.top/live.m3u
